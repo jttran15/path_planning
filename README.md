@@ -1,3 +1,5 @@
 # path_planning
 
-Path planning genetic algorithm for 3 rebots.
+Path planning using genetic algorithm.
+Use multiple agents. 
+Avoid obstacles.
